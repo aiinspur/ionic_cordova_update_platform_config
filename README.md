@@ -22,3 +22,5 @@
 ###说明###
 该js脚本自动运行且会对config.xml进行解析，从而达到更新plist文件或AndroidManifest.xml文件。
 
+js脚本来源：https://gist.github.com/marcocarnazzo/6f01a57d390e8fe3071f
+
