@@ -1,0 +1,2 @@
+# ionic_cordova_update_platform_config
+通过hook方式更改iOS的plist文件 和 android的AndroidManifest.xml
